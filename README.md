@@ -6,7 +6,7 @@ The goal is to make an intelligent camera capable to detect car accident
 and directly send the position and an image of this incident to the emergency departement.
 
 Dataset used :
-https://www.kaggle.com/code/fahaddalwai/cnn-accident-detection-91-accuracy
+https://www.kaggle.com/datasets/ckay16/accident-detection-from-cctv-footage
 
 Description of the files :
 
